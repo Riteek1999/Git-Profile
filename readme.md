@@ -41,4 +41,4 @@
 
 
 ### What I listen when I code - 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
