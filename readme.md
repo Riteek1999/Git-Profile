@@ -24,6 +24,7 @@
 
 ###### Back-End Stack
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 ###### Languages
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
